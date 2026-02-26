@@ -6,7 +6,7 @@
   Available local file: frontend/public/og-image.png (recommended for banner)
   After upload, use: ./images/og-image.png
 -->
-<img src="./images/og-image.png" alt="DevConfessions Banner" width="100%">
+<img src="./images/og-image.png" alt="DevConfessions Banner">
 
 <br><br>
 
